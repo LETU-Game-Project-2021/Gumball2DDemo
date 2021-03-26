@@ -5,6 +5,8 @@ Goal:
 The object of the game is to destroy all the alien nests before they reach the portal. You are equipped with a gumball machine that has been modified to fire gumballs! Stick the aliens and prevent them from reaching earth. 
 
 Controls:
+Mouse - Aim
+Left Click - Fire
 AD - Move left and right
 Space - Jump
 E - Interact
