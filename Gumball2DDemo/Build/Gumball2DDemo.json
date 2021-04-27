@@ -1,0 +1,16 @@
+{
+"companyName": "LETU",
+"productName": "GumBallDemo",
+"productVersion": "0.1",
+"dataUrl": "Gumball2DDemo.data.unityweb",
+"wasmCodeUrl": "Gumball2DDemo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Gumball2DDemo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
